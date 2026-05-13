@@ -15,12 +15,24 @@
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prashant-rajawat-001b2a400">LinkedIn</a> •
-  <a href="mailto:dreambattle311@gmail.com">Email</a> •
-  <a href="https://wa.me/917862011834">WhatsApp</a>
+  <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/yourtelegramusername">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/917862011834">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/prashant-rajawat-001b2a400">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -41,7 +53,9 @@
 
 <p align="center">
   🚗 RideMitra Car Rental Platform <br>
-  🚨 Silent SOS Safety SaaS
+  🛒 E-Commerce Website <br>
+  🎮 Free Fire Tournament App <br>
+  🏪 ApnaStore Marketplace App
 </p>
 
 ---
