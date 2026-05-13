@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D5616AQHYYDPmo4bRag/profile-displaybackgroundimage-shrink_350_1400/B56Z4MOKaDIsAU-/0/1778321500076?e=1780531200&v=beta&t=YvrZ2xj-sTemyV6Gple4i4UTRzqNEBF02XnsIylX-pk" 
+    width="100%" 
+    alt="Banner"
+  />
 </p>
 
 <h1 align="center">Welcome To Prashant's GitHub 👋</h1>
